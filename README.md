@@ -1,3 +1,3 @@
-# TailwindCSS Login Template
+# Login Template
 
 <img src="./screenshot.png" alt="Login Template Screenshot">
